@@ -3,7 +3,7 @@ _Часть 1_ https://docs.google.com/forms/d/1V-mhloT1TwUeeQ4Q4WVAbZfhcS_2E2-u
 
 _Часть 2_
 
-! [Ссылка на полученную таблицу](https://docs.google.com/spreadsheets/d/13JNxsLwZPhurM2sK5FCgYdMD8FSxV5VnkTYKygJ2OEg/edit#gid=2117792634)
+! [Ссылка на полученную таблицу](https://docs.google.com/spreadsheets/d/13JNxsLwZPhurM2sK5FCgYdMD8FSxV5VnkTYKygJ2OEg/edit?usp=sharing)
 
 ! [Ссылка на форму](https://docs.google.com/forms/d/1V-mhloT1TwUeeQ4Q4WVAbZfhcS_2E2-unNwEpuxZ5WY/edit)
 
